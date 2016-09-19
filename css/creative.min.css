@@ -6,3 +6,15 @@
  .gitter{
    font-size: 3em;
  }
+ .twitter{
+   font-size: 3rem;
+   text-decoration: none;
+ }
+.linkedin{
+  font-size: 3rem;
+  text-decoration: none;
+}
+.github{
+  font-size: 3rem;
+  text-decoration: none;
+}
